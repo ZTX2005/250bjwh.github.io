@@ -1,0 +1,16 @@
+/* 
+  Name:			Pomo
+  Type:			Entrance
+  Description:	Pomo Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"泼墨", "en-US":"Pomo"}
+  Class:        Pomo
+ */
+ 
+@keyframes pomo{
+	
+}
+
+.pomo{
+	animation-duration: 5s;
+}

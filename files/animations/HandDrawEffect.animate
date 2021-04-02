@@ -1,0 +1,16 @@
+/* 
+  Name:			HandDrawEffect
+  Type:			Entrance
+  Description:	Hand Draw Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"涂抹效果", "en-US":"Smear Effect"}
+  Class:        HandDrawEffect
+  Parameter:    <^   {"Options":{"direcPen":0}}   $>
+ */
+ 
+@keyframes handDrawEffect {
+	
+}
+.handDrawEffect{
+	animation-duration: 4s;
+}
